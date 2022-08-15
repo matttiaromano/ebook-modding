@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Pagina Principale](README.md)
+* [Info sul Progetto](info-sul-progetto.md)
